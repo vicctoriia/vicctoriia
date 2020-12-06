@@ -1,11 +1,10 @@
-### Hi there 👋
+
 
 <--
-**vicctoriia/vicctoriia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<h1 align="center">Hey there! I'm Victoria Oliveira 👋 </h1>
+<h1 align="center">Hi there! 👋 </h1>
 <h3 align="center">🚀 Backend Developer | MERN Stack | Open Source ♥ | Devops | Competitive Programmer  🚀</h3>
 <div>
-<img width = "35%" align="right" alt="PIC" height="300px" src="https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png" />
+<img width = "35%" align="right" alt="PIC" height="300px" src="https://ton.twitter.com/1.1/ton/data/dm/1335628214899793925/1335628195102658562/KYk6wi29.png:medium" />
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
