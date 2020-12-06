@@ -1,10 +1,11 @@
 
 
+
 <--
 <h1 align="center">Hi there! 👋 </h1>
 <h3 align="center">🚀 Backend Developer | MERN Stack | Open Source ♥ | Devops | Competitive Programmer  🚀</h3>
 <div>
-<img width = "35%" align="right" alt="PIC" height="300px" src="https://ibb.co/NxHRfLJ" />
+<img width = "35%" align="right" height="300px" src="https://user-images.githubusercontent.com/74876209/101287090-eaf96100-37cc-11eb-9c67-cf3ba1ef3681.png)" />
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
