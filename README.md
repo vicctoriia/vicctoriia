@@ -5,7 +5,7 @@
 <div>
 <img width = "35%" align="right" height="300px" src="https://user-images.githubusercontent.com/74876209/101287090-eaf96100-37cc-11eb-9c67-cf3ba1ef3681.png"/>
 <div align="left"> 
-  <h3> :woman_technologist:🏻‍💻 About Me </h3>
+  <h3> :woman_technologist: About Me </h3>
 
   - 🤔 &nbsp; Exploring new technologies and developing quick hacks.
   - 🎓 &nbsp; Master student at PPGDE.
