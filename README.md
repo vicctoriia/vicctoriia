@@ -4,7 +4,7 @@
 <h1 align="center">Hi there! 👋 </h1>
 <h3 align="center">🚀 Backend Developer | MERN Stack | Open Source ♥ | Devops | Competitive Programmer  🚀</h3>
 <div>
-<img width = "35%" align="right" alt="PIC" height="300px" src="https://ton.twitter.com/1.1/ton/data/dm/1335628214899793925/1335628195102658562/KYk6wi29.png:medium" />
+<img width = "35%" align="right" alt="PIC" height="300px" src="https://ibb.co/NxHRfLJ" />
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
