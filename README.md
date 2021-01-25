@@ -27,5 +27,6 @@
 <p align="center">
 <a href="https://medium.com/flugi" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-https://medium.com/flugi-blue?style=flat&logo=google-chrome"></a>
 <a href="mailto:whzpvictoria@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-whzpvictoria@gmail.com-blue?style=flat&logo=gmail"></a>
+<a href="https://linkedin.com/in/victoriadso/"><img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victoriadso/"></a>
 </p>
 </div> 
