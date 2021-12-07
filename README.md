@@ -25,7 +25,7 @@
   <h3> 🌐Contact me: </h3>
 
 <p align="center">
-<a href="https://victoriasoliveira.com.br" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-blue?style=flat&logo=google-chrome"></a>
+<a href="https://victoriasoliveira.com.br" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Website-blue?style=flat&logo=google-chrome"></a>
 <a href="mailto:whzpvictoria@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-blue?style=flat&logo=gmail"></a>
 <a href="https://linkedin.com/in/victoriadso/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victoriadso/"></a>
 </p>
