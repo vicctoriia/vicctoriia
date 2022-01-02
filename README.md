@@ -7,7 +7,7 @@
   <h3> :woman_technologist: About Me </h3>
 
   - 🤔 &nbsp; Exploring new technologies and developing quick hacks.
-  - 🎓 &nbsp; Master student at PPGDE.
+  - 🎓 &nbsp; MSc in Economics.
   - 🌱 &nbsp; Learning more about Data Science & Machine Learning. 
 
 </div> 
