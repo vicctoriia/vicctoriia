@@ -8,7 +8,7 @@
 
   - 🤔 &nbsp; Exploring new technologies and developing quick hacks.
   - 🎓 &nbsp; MSc in Economics.
-  - 🌱 &nbsp; Learning more about Data Science & Machine Learning. 
+  - 🌱 &nbsp; Passionate about Data Science & Machine Learning. 
 
 </div> 
 </div>
@@ -16,7 +16,7 @@
 <div>
   <h3> 💻 Skills  </h3>
   <p>
-🐍 Python | 💹 R |  📓 SQL | 🧮 Power BI | 🔮 Machine Learning | 💡 Data Visualization
+🐍 Python | 💹 R |  📓 SQL | 🧮 Deep Learning | 🔮 Machine Learning | 💡 Data Visualization
   <p>
 </div> 
 
